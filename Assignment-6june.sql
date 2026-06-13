@@ -1,4 +1,4 @@
---CREATE DATABASE DataBank;
+CREATE DATABASE DataBank;
 USE DataBank;
 
 CREATE TABLE regions (
